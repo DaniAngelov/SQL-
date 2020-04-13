@@ -1,0 +1,103 @@
+
+1.
+
+a)
+
+create table product
+(
+	model char(4) ,
+	maker char(1) ,
+	type_pr varchar(7)
+
+);
+
+create table Printer
+(
+	code int,
+	model char(4),
+	price decimal(6,2)
+);
+
+б)
+
+insert into product(model,maker,type_pr) Values('1001','A','Printer')
+insert into product(model,maker,type_pr) Values('1002','B','Printer')
+insert into product(model,maker,type_pr) Values('1003','C','Printer')
+
+insert into Printer(code,model,price) values(1,'1004',150.69)
+insert into Printer(code,model,price) values(2,'1007',1124.10)
+insert into Printer(code,model,price) values(3,'1010',240.54)
+
+в)
+
+alter table printer add type varchar(6)
+alter table printer add color char(1)
+alter table printer add constraint printer_type_ck Check(type in ('laser','matrix' ,'jet'))
+alter table printer add constraint printer_color_ck check(color in ('y','n'))
+
+insert into Printer(code,model,price,_type,color) values(4,'1011',500.25,'jet','y')
+insert into Printer(code,model,price,_type,color) values(5,'1015',568.17,'matrix','n')
+
+г)
+
+alter table printer drop column price
+
+д)
+
+drop table product
+drop table printer
+
+2.
+
+а)
+
+create table Users
+(
+	id int primary key identity,
+	email varchar(20),
+	_password varchar(25),
+	registrationDate date
+)
+
+create table Friends
+(
+	id_user int not null
+
+	constraint user_friends_fk foreign key(id_user) references Users(id)
+)
+
+
+create table Friends
+(
+	UserID int REFERENCES Users(id) NOT NULL,
+    FriendID int REFERENCES Users(id) NOT NULL,
+    PRIMARY KEY (UserID, FriendID)
+	
+)
+
+create table Walls
+(
+	UserID int references users(id) not null,
+	UserMessagingID int references users(id) not null,
+	Primary key(UserID,UserMessagingID),
+	messageOfUser varchar(100),
+	dateWritten date
+)
+
+
+
+create table Groups
+(
+	group_id int primary key not null identity,
+	group_name varchar(20),
+	group_description varchar(200) default ''
+)
+
+
+
+create table GroupMembers
+(
+	GroupID int references Groups(group_id) not null,
+	UserID int references Users(id) not null,
+	Primary key(GroupID,UserID)
+)

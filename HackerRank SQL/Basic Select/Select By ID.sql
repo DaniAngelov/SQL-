@@ -1,4 +1,4 @@
-// Select By ID solution
+-- github.com/DaniAngelov
 
 select * 
 from city

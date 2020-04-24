@@ -1,4 +1,4 @@
-##### SQL
+#### SQL
 
 ### Hackerrank Challenges
 Category| Challenge| Points | Solution

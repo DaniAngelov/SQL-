@@ -1,0 +1,5 @@
+// Japanese Cities' Attributes solution
+
+select *
+from city
+where countrycode = 'JPN';

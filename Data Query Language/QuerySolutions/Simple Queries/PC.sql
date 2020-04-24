@@ -1,3 +1,5 @@
+-- github.com/DaniAngelov
+
 PC:
 1.select model,speed as MHz ,hd as GB from PC where price < 1200
 2.select Distinct maker from product where type = 'Printer'

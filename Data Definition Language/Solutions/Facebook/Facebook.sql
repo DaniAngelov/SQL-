@@ -1,3 +1,5 @@
+-- github.com/DaniAngelov
+
 2.
 
 а)

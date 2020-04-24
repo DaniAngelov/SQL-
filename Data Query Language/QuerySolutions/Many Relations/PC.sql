@@ -1,3 +1,5 @@
+-- github.com/DaniAngelov
+
 PC:
 1.select distinct maker,speed from product,laptop where product.model = laptop.model and hd > 9
 

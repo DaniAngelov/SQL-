@@ -1,3 +1,5 @@
+-- github.com/DaniAngelov
+
 Ships:
 1.
 select name from ships,classes where classes.CLASS = ships.CLASS and classes.DISPLACEMENT > 50000

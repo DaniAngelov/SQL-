@@ -1,4 +1,4 @@
-// Japanese Cities' Attributes solution
+-- github.com/DaniAngelov
 
 select *
 from city

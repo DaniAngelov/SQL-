@@ -26,4 +26,4 @@ Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-
 Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Asian%20Population.sql)
 Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/African%20Cities.sql)
 Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
-Basic Join | [](https://www.hackerrank.com/challenges/the-report/problem)| 20| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/The%20Report.sql)
+Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report/problem)| 20| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/The%20Report.sql)

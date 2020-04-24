@@ -1,3 +1,5 @@
+-- github.com/DaniAngelov
+
 Movies:
 1.(select distinct starname from STARSIN where MOVIETITLE = 'The Usual Suspects')
 INTERSECT

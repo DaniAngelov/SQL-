@@ -1,4 +1,4 @@
-// Revising the Select Query I solution
+-- github.com/DaniAngelov
 
 select *
 from city

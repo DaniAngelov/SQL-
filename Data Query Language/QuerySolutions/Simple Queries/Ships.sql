@@ -1,3 +1,5 @@
+-- github.com/DaniAngelov
+
 Ships:
 1.select class,country from CLASSES where numguns < 10
 2.select name as shipName from ships where LAUNCHED < 1918

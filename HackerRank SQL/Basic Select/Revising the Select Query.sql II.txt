@@ -1,4 +1,4 @@
-// Revising the Select Query II solution 
+-- github.com/DaniAngelov 
 
 select name
 from city

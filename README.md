@@ -27,16 +27,16 @@ Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-em
 Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Select/Employee%20Salaries.sql)
 
 ### Basic Join
-Category| Challenge| Points | Solution
--------- | -------- | -------- | --------
-Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Asian%20Population.sql)
-Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/African%20Cities.sql)
-Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
-Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report/problem)| 20| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/The%20Report.sql)
-Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)| 30| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Top%20Competitors.sql)
-Basic Join | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)| 30| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Ollivander's%20Inventory.sql)
-Basic Join | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)| 30| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Contest%20Leaderboard.sql)
-Basic Join | [Challenges](https://www.hackerrank.com/challenges/challenges/problem)| 30| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Challenges.sql)
+Category| Challenge| Points | Difficulty | Solution
+-------- | -------- | -------- | -------- | --------
+Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)| 10| Easy | [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Asian%20Population.sql)
+Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)| 10|  Easy | [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/African%20Cities.sql)
+Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)| 10|  Easy | [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
+Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report/problem)| 20|  Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/The%20Report.sql)
+Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)| 30| Medium | [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Top%20Competitors.sql)
+Basic Join | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)| 30| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Ollivander's%20Inventory.sql)
+Basic Join | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)| 30| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Contest%20Leaderboard.sql)
+Basic Join | [Challenges](https://www.hackerrank.com/challenges/challenges/problem)| 30| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Challenges.sql)
 
 ### Aggregation
 Category| Challenge| Points | Solution

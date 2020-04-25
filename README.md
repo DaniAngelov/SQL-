@@ -1,6 +1,8 @@
 ### SQL
 
 ### Hackerrank Challenges
+
+### Basic Select
 Category| Challenge| Points | Solution
 -------- | -------- | -------- | --------
 Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Select/Revising%20the%20Select%20Query%20I.sql)
@@ -23,6 +25,10 @@ Basic Select | [Weather Observation Station 12](https://www.hackerrank.com/chall
 Basic Select | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)| 15| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Select/Higher%20Than%2075%20Marks.sql)
 Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Select/Employee%20Names.sql)
 Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Select/Employee%20Salaries.sql)
+
+### Basic Join
+Category| Challenge| Points | Solution
+-------- | -------- | -------- | --------
 Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Asian%20Population.sql)
 Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/African%20Cities.sql)
 Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
@@ -31,6 +37,10 @@ Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/
 Basic Join | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)| 30| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Ollivander's%20Inventory.sql)
 Basic Join | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)| 30| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Contest%20Leaderboard.sql)
 Basic Join | [Challenges](https://www.hackerrank.com/challenges/challenges/problem)| 30| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Challenges.sql)
+
+### Aggregation
+Category| Challenge| Points | Solution
+-------- | -------- | -------- | --------
 Aggregation | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
 Aggregation | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
 Aggregation | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Revising%20Aggregations%20-%20Averages.sql)
@@ -48,6 +58,10 @@ Aggregation | [Weather Observation Station 17](https://www.hackerrank.com/challe
 Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)| 25| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2018.sql)
 Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)| 30| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2019.sql)
 Aggregation | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)| 40| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2020.sql)
+
+### Alternative Queries
+Category| Challenge| Points | Solution
+-------- | -------- | -------- | --------
 Alternative Queries | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)| 25| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Alternative%20Queries/Draw%20The%20Triangle%201.sql)
 Alternative Queries | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)| 25| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Alternative%20Queries/Draw%20The%20Triangle%202.sql)
 

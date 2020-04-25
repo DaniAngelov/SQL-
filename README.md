@@ -64,4 +64,5 @@ Category| Challenge| Points | Difficulty | Solution
 -------- | -------- | -------- | -------- | --------
 Alternative Queries | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)| 25| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Alternative%20Queries/Draw%20The%20Triangle%201.sql)
 Alternative Queries | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)| 25| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Alternative%20Queries/Draw%20The%20Triangle%202.sql)
+Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)| 40| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Alternative%20Queries/Print%20Prime%20Numbers.sql)
 

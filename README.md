@@ -39,29 +39,29 @@ Basic Join | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest
 Basic Join | [Challenges](https://www.hackerrank.com/challenges/challenges/problem)| 30| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Join/Challenges.sql)
 
 ### Aggregation
-Category| Challenge| Points | Solution
--------- | -------- | -------- | --------
-Aggregation | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
-Aggregation | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
-Aggregation | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Revising%20Aggregations%20-%20Averages.sql)
-Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Average%20Population.sql)
-Aggregation | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Japan%20Population.sql)
-Aggregation | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Population%20Density%20Difference.sql)
-Aggregation | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)| 15| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/The%20Blunder.sql)
-Aggregation | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)| 20| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Top%20Earners.sql)
-Aggregation | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)| 15| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%202.sql)
-Aggregation | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2013.sql)
-Aggregation | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2014.sql)
-Aggregation | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)| 15| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2015.sql)
-Aggregation | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)| 10| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2016.sql)
-Aggregation | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)| 15| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2017.sql)
-Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)| 25| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2018.sql)
-Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)| 30| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2019.sql)
-Aggregation | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)| 40| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2020.sql)
+Category| Challenge| Points | Difficulty | Solution
+-------- | -------- | -------- | -------- | --------
+Aggregation | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)| 10| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
+Aggregation | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)| 10| Easy | [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
+Aggregation | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)| 10| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Revising%20Aggregations%20-%20Averages.sql)
+Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem)| 10|Easy | [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Average%20Population.sql)
+Aggregation | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)| 10|Easy | [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Japan%20Population.sql)
+Aggregation | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)| 10| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Population%20Density%20Difference.sql)
+Aggregation | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)| 15| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/The%20Blunder.sql)
+Aggregation | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)| 20|Easy | [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Top%20Earners.sql)
+Aggregation | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)| 15|Easy | [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%202.sql)
+Aggregation | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)| 10| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2013.sql)
+Aggregation | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)| 10| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2014.sql)
+Aggregation | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)| 15| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2015.sql)
+Aggregation | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)| 10| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2016.sql)
+Aggregation | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)| 15| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2017.sql)
+Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)| 25| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2018.sql)
+Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)| 30| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2019.sql)
+Aggregation | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)| 40| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Aggregation/Weather%20Observation%20Station%2020.sql)
 
 ### Alternative Queries
-Category| Challenge| Points | Solution
--------- | -------- | -------- | --------
-Alternative Queries | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)| 25| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Alternative%20Queries/Draw%20The%20Triangle%201.sql)
-Alternative Queries | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)| 25| [Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Alternative%20Queries/Draw%20The%20Triangle%202.sql)
+Category| Challenge| Points | Difficulty | Solution
+-------- | -------- | -------- | -------- | --------
+Alternative Queries | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)| 25| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Alternative%20Queries/Draw%20The%20Triangle%201.sql)
+Alternative Queries | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)| 25| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Alternative%20Queries/Draw%20The%20Triangle%202.sql)
 

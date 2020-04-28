@@ -1,6 +1,6 @@
-## SQL
+# SQL
 
-### Hackerrank Challenges
+## Hackerrank Challenges
 
 ### Basic Select
 Category| Challenge| Points | Difficulty | Solution

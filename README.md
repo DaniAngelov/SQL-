@@ -113,3 +113,29 @@ Category| Challenge| Points | Solution
 -------- | -------- | -------- | -------- 
 Group By | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/GroupBy.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/GroupBy/PC.sql)
 Group By | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/GroupBy.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/GroupBy/Ships.sql)
+
+### Summary (Week 6)
+Category| Challenge| Points | Solution
+-------- | -------- | -------- | -------- 
+Join | [Movies](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/Summary1.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Summary1/Movies.sql)
+Join | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/Summary1.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Summary1/PC.sql)
+Join | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/Summary1.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Summary1/Ships.sql)
+
+## Data Manipulation Language (DML)
+
+### Database Modification (Week 7)
+Category| Challenge| Points | Solution
+-------- | -------- | -------- | -------- 
+Database Modification | [Movies](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QueryProblems/DBModification.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QuerySolutions/DBModification/Movies.sql)
+Database Modification | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QueryProblems/DBModification.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QuerySolutions/DBModification/PC.sql)
+Database Modification | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QueryProblems/DBModification.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QuerySolutions/DBModification/Ships.sql)
+
+## Data Definition Lanuage (DDL)
+
+### Defining Relations (Week 8)
+Category| Challenge| Points | Solution
+-------- | -------- | -------- | -------- 
+Defining Relations | [Task 1](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/Problems.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Product-Printer/ProductPrinter.sql)
+Defining Relations | [Task 2](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/Problems.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Facebook/Facebook.sql)
+
+

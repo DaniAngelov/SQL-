@@ -74,6 +74,8 @@ Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/prob
 Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/problem)| 30| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Advanced%20Select/The%20PADS.sql)
 Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)| 30| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Advanced%20Select/Binary%20Tree%20Nodes.sql)
 
+# ----------------------------------------
+
 ## FMI Tasks
 
 ### Simple Queries (Week 1)

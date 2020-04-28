@@ -76,7 +76,9 @@ Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/bina
 
 # -----------------------------------------------------------------------
 
-## FMI Tasks
+## FMI Tasks 
+
+## Data Query Language (DQL)
 
 ### Simple Queries (Week 1)
 Category| Challenge| Points | Solution

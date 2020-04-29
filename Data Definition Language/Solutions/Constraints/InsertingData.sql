@@ -1,10 +1,11 @@
 -- github.com/DaniAngelov
 
 
-CONSTRAINTS
+--CONSTRAINTS
 
 ----------------------------------------------
-INSERT :
+
+--INSERT :
 
 INSERT INTO AIRLINE(CODE,NAME,COUNTRY)
 VALUES ('AZ', 'Alitalia', 'Italy'),

@@ -2,11 +2,11 @@
 -- github.com/DaniAngelov
 
 
-CONSTRAINTS
+--CONSTRAINTS
 
 ----------------------------------------------
 
-CREATING TABLES:
+--CREATING TABLES:
 
 create table Airline
 (

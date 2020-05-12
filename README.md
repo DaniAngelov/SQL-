@@ -143,5 +143,12 @@ Category| Challenge| Points | Solution
 -------- | -------- | -------- | -------- 
 Constraints | [Task](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/Problems2%20-%2010-2p-Constraints-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/tree/master/Data%20Definition%20Language/Solutions/Constraints)
 
+# -----------------------------------------------------------------------
+
+## Project
+
+### [Full Project](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Database-Full-Project.docx)
+
+
 
 

@@ -151,7 +151,7 @@ Constraints | [Task](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Defi
 
 Category| Challenge| Points | Task Realisation
 -------- | -------- | -------- | --------
-Project | [Defining Relations](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Database_Project_Template_2020.pdf)| - |[Defining Relations - Base Scheme](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Defining-Relations.png) 
+Project | [Defining Relations](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Database_Project_Template_2020.pdf)| - |[Defining Relations - Base Scheme](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Defining-Relations.png) ,
 [Defining Relations - Creating Tables](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Creating%20Tables.sql)
 
 

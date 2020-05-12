@@ -1,6 +1,6 @@
 -- github.com/DaniAngelov
 
-INSERT: 
+--INSERT: 
 
 INSERT INTO VEHICLES(Registration_Number,Type,Horse_Power,isDrivable)
 VALUES( 'ВН 2012 АК' , 'sedan', 120, 1 ),

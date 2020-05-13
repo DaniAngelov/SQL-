@@ -81,28 +81,28 @@ Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/bina
 ## Data Query Language (DQL)
 
 ### Simple Queries (Week 1)
-Category| Challenge| Points | Solution
+Category| Task| Points | Solution
 -------- | -------- | -------- | -------- 
 Simple Queries | [Movies](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/SimpleQueries.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Simple%20Queries/Movies.sql)
 Simple Queries | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/SimpleQueries.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Simple%20Queries/PC.sql)
 Simple Queries | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/SimpleQueries.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Simple%20Queries/Ships.sql)
 
 ### Many Relations (Week 2)
-Category| Challenge| Points | Solution
+Category| Task| Points | Solution
 -------- | -------- | -------- | -------- 
 Many Relations | [Movies](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/ManyRelations.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Many%20Relations/Movies.sql)
 Many Relations | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/ManyRelations.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Many%20Relations/PC.sql)
 Many Relations | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/ManyRelations.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Many%20Relations/Ships.sql)
 
 ### Subqueries (Week 3)
-Category| Challenge| Points | Solution
+Category|Task| Points | Solution
 -------- | -------- | -------- | -------- 
 Subqueries | [Movies](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/SubQueries.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Subqueries/Movies.sql)
 Subqueries | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/SubQueries.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Subqueries/PC.sql)
 Subqueries | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/SubQueries.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Subqueries/Ships.sql)
 
 ### Join (Week 4)
-Category| Challenge| Points | Solution
+Category| Task| Points | Solution
 -------- | -------- | -------- | -------- 
 Join | [Movies](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/Join.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Join/Movies.sql)
 Join | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/Join.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Join/PC.sql)
@@ -115,7 +115,7 @@ Group By | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20L
 Group By | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/GroupBy.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/GroupBy/Ships.sql)
 
 ### Summary (Week 6)
-Category| Challenge| Points | Solution
+Category| Task| Points | Solution
 -------- | -------- | -------- | -------- 
 Join | [Movies](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/Summary1.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Summary1/Movies.sql)
 Join | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/Summary1.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Summary1/PC.sql)
@@ -124,7 +124,7 @@ Join | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20La
 ## Data Manipulation Language (DML)
 
 ### Database Modification (Week 7)
-Category| Challenge| Points | Solution
+Category| Task| Points | Solution
 -------- | -------- | -------- | -------- 
 Database Modification | [Movies](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QueryProblems/DBModification.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QuerySolutions/DBModification/Movies.sql)
 Database Modification | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QueryProblems/DBModification.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QuerySolutions/DBModification/PC.sql)
@@ -133,15 +133,23 @@ Database Modification | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/
 ## Data Definition Lanuage (DDL)
 
 ### Defining Relations (Week 8)
-Category| Challenge| Points | Solution
+Category| Task| Points | Solution
 -------- | -------- | -------- | -------- 
 Defining Relations | [Task 1](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/Problems.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Product-Printer/ProductPrinter.sql)
 Defining Relations | [Task 2](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/Problems.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Facebook/Facebook.sql)
 
 ### Constraints (Week 9)
-Category| Challenge| Points | Solution
+Category| Task | Points | Solution
 -------- | -------- | -------- | -------- 
 Constraints | [Task](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/Problems2%20-%2010-2p-Constraints-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/tree/master/Data%20Definition%20Language/Solutions/Constraints)
+
+### Views and Indexes (Week 10)
+Category| Task| Points | Solution
+-------- | -------- | -------- | -------- 
+Views and Indexes | [Flights](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/11-2p-Views-Indexes-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Views%20and%20Indexes/Flights.sql)
+Views and Indexes | [Movies](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/11-2p-Views-Indexes-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Views%20and%20Indexes/Movies.sql)
+Views and Indexes | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/11-2p-Views-Indexes-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Views%20and%20Indexes/Indexes.sql)
+Views and Indexes | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/11-2p-Views-Indexes-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Views%20and%20Indexes/Indexes.sql)
 
 # -----------------------------------------------------------------------
 

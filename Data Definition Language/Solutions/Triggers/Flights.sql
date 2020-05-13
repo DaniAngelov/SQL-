@@ -1,7 +1,12 @@
 -- github.com/DaniAngelov
 
---1. ALTER TABLE FLIGHT ADD num_pass int
---2. ALTER TABLE AGENCY ADD num_book int
+--1. 
+
+ALTER TABLE FLIGHT ADD num_pass int
+
+--2. 
+
+ALTER TABLE AGENCY ADD num_book int
 
 -- 3.
 

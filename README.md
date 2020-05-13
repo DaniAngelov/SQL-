@@ -168,6 +168,7 @@ Project | [Subqueries](https://github.com/DaniAngelov/SQL-/blob/master/Database%
 Project | [Joins](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Database_Project_Template_2020.pdf)| - |[Queries](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Joins.sql) 
 Project | [Group By / Aggregation](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Database_Project_Template_2020.pdf)| - |[Queries](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/GroupBy.sql) 
 Project | [Constraints](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Database_Project_Template_2020.pdf)| - |[Constraints](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Constraints.sql) 
+Project | [Views](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Database_Project_Template_2020.pdf)| - |[Indexes](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Views.sql) 
 Project | [Indexes](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Database_Project_Template_2020.pdf)| - |[Indexes](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Indexes.sql) 
 Project | [Triggers](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Database_Project_Template_2020.pdf)| - |[Triggers](https://github.com/DaniAngelov/SQL-/blob/master/Database%20Project/Triggers.sql) 
 

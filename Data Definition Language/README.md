@@ -18,3 +18,8 @@ Views and Indexes | [Flights](https://github.com/DaniAngelov/SQL-/blob/master/Da
 Views and Indexes | [Movies](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/11-2p-Views-Indexes-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Views%20and%20Indexes/Movies.sql)
 Views and Indexes | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/11-2p-Views-Indexes-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Views%20and%20Indexes/Indexes.sql)
 Views and Indexes | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/11-2p-Views-Indexes-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Views%20and%20Indexes/Indexes.sql)
+
+### Triggers (Week 11)
+Category| Task| Points | Solution
+-------- | -------- | -------- | -------- 
+Triggers | [Flights](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/12-2p-Triggers-zadachi.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Triggers/Flights.sql)

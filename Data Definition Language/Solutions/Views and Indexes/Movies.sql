@@ -1,0 +1,41 @@
+-- github.com/DaniAngelov
+
+-- MOVIES :
+
+-- 6.
+
+CREATE VIEW RichExec AS
+SELECT DISTINCT NAME,ADDRESS,CERT#,NETWORTH
+FROM MOVIEEXEC me
+JOIN MOVIE m
+ON me.CERT# = m.PRODUCERC#
+WHERE me.NETWORTH >= 10000000
+
+-- 7.
+
+CREATE VIEW Executive_Star as
+SELECT m.NAME,m.GENDER,m.BIRTHDATE,me.CERT#,me.NETWORTH
+FROM MOVIESTAR m
+JOIN MOVIEEXEC me
+ON m.NAME = me.NAME
+JOIN MOVIE m2
+ON m2.PRODUCERC# = me.CERT#
+
+-- 8. -->
+
+-- --> 9.
+
+SELECT NAME 
+FROM Executive_Star
+WHERE GENDER = 'F'
+
+-- --> 10.
+
+SELECT NAME 
+FROM Executive_Star
+WHERE NETWORTH >= 50000000
+
+-- --> 11.
+
+DROP VIEW RichExec
+DROP VIEW Executive_Star

@@ -130,7 +130,7 @@ Database Modification | [Movies](https://github.com/DaniAngelov/SQL-/blob/master
 Database Modification | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QueryProblems/DBModification.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QuerySolutions/DBModification/PC.sql)
 Database Modification | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QueryProblems/DBModification.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Manipulation%20Language/QuerySolutions/DBModification/Ships.sql)
 
-## Data Definition Lanuage (DDL)
+## Data Definition Language (DDL)
 
 ### Defining Relations (Week 8)
 Category| Task| Points | Solution

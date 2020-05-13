@@ -1,6 +1,5 @@
-# FMI Tasks 
 
-## Data Query Language (DQL)
+# Data Query Language (DQL)
 
 ### Simple Queries (Week 1)
 Category| Challenge| Points | Solution

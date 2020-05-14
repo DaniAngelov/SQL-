@@ -39,3 +39,10 @@ insert into ORDER_LINE values
 (104, 4000, 1),
 (105, 4000, 1),
 (107, 4000, 1);
+
+-- 10.
+
+INSERT INTO outcomes VALUES ('Missouri','Surigao Strait', 'sunk'),
+('Missouri','North Cape', 'sunk'),
+('Missouri','North Atlantic', 'ok');
+

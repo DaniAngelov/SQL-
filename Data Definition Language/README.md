@@ -23,3 +23,14 @@ Views and Indexes | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data
 Category| Task| Points | Solution
 -------- | -------- | -------- | -------- 
 Triggers | [Flights](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/12-2p-Triggers-zadachi.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Triggers/Flights.sql)
+
+### Summary (Week 12)
+Category| Task| Points | Solution
+-------- | -------- | -------- | -------- 
+Summary | [Creating Tables](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/13p-summary-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Summary/Creating%20tables.sql)
+Summary | [Insert](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/13p-summary-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Summary/Insert.sql)
+Summary | [Constraints](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/13p-summary-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Summary/Constraints.sql)
+Summary | [Furniture Company](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/13p-summary-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Summary/Furniture%20Company.sql)
+Summary | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/13p-summary-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Summary/PC.sql)
+Summary | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/13p-summary-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Summary/Ships.sql)
+

@@ -41,3 +41,12 @@ Category| Challenge| Points | Solution
 Join | [Movies](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/Summary1.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Summary1/Movies.sql)
 Join | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/Summary1.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Summary1/PC.sql)
 Join | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/Query%20Problems/Summary1.md)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Query%20Language/QuerySolutions/Summary1/Ships.sql)
+
+
+### Summary (Week 12)
+Category| Task| Points | Solution
+-------- | -------- | -------- | -------- 
+Summary | [Furniture Company](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/13p-summary-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Summary/Furniture%20Company.sql)
+Summary | [PC](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/13p-summary-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Summary/PC.sql)
+Summary | [Ships](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Problems/13p-summary-ex.pdf)| - |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/Data%20Definition%20Language/Solutions/Summary/Ships.sql)
+

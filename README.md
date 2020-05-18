@@ -69,7 +69,7 @@ Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenge
 ### Advanced Select
 Category| Challenge| Points | Difficulty | Solution
 -------- | -------- | -------- | -------- | --------
-Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)| 20| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Advanced%20Select/Type%20of%20Triangle.sql)
+Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)| 20| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Advanced%20Select/Type%20of%20Triangle.sql)
 Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem)| 30| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Advanced%20Select/The%20PADS.sql)
 Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/problem)| 30| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Advanced%20Select/The%20PADS.sql)
 Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)| 30| Medium |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Advanced%20Select/Binary%20Tree%20Nodes.sql)

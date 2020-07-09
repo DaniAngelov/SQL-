@@ -3,8 +3,8 @@
 ## Hackerrank Challenges
 
 ### Basic Select
-Category| Challenge| Points | Difficulty | Solution
--------- | -------- | -------- | -------- | --------
+Category| Challenge| Points | Diffic-------ulty | Solution
+-------- | -------- | --- | -------- | -------- 
 Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|10| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Select/Revising%20the%20Select%20Query%20I.sql)
 Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)| 10| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Select/Revising%20the%20Select%20Query%20II.sql)
 Basic Select | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | 10| Easy |[Solution](https://github.com/DaniAngelov/SQL-/blob/master/HackerRank%20SQL/Basic%20Select/Select%20By%20ID.sql)
